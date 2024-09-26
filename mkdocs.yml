@@ -24,7 +24,13 @@ markdown_extensions:
   - tables
 
 nav:
+  - "lab 1":
+      - lab-1/index.md
   - "lab 2":
       - lab-2/index.md
       - lab-2/task1.md
       - lab-2/task2.md
+  - "lab 3":
+      - lab-3/index.md
+      - lab-3/task1.md
+      - lab-3/task2.md
